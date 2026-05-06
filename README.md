@@ -77,8 +77,8 @@ In this interactive environment, users can explore the interplay between modern 
 
 1. **Clone the Repository:**
    `ash
-   git clone https://github.com/TuranAsgarov/final_exam_Data_Security.git
-   cd final_exam_Data_Security
+   git clone https://github.com/TuranAsgarov/Turan_data_security_finals.git
+   cd Turan_data_security_finals
    `
 
 2. **Install Dependencies:**
